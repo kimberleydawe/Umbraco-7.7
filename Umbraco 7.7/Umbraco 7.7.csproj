@@ -315,6 +315,24 @@
     <Content Include="Views\Partials\Grid\Bootstrap2.cshtml" />
     <Content Include="Views\Partials\Grid\Bootstrap2-Fluid.cshtml" />
     <Content Include="Views\LandingPage.cshtml" />
+    <Content Include="Views\FastTrack.cshtml" />
+    <Content Include="Views\ftAccount.cshtml" />
+    <Content Include="Views\ftBasket.cshtml" />
+    <Content Include="Views\ftBillingAddress.cshtml" />
+    <Content Include="Views\ftCatalog.cshtml" />
+    <Content Include="Views\ftCategory.cshtml" />
+    <Content Include="Views\ftChangePassword.cshtml" />
+    <Content Include="Views\ftCheckout.cshtml" />
+    <Content Include="Views\ftFinalSaleSummary.cshtml" />
+    <Content Include="Views\ftForgotPassword.cshtml" />
+    <Content Include="Views\ftLogin.cshtml" />
+    <Content Include="Views\ftPayment.cshtml" />
+    <Content Include="Views\ftPaymentMethod.cshtml" />
+    <Content Include="Views\ftPreSaleSummary.cshtml" />
+    <Content Include="Views\ftProduct.cshtml" />
+    <Content Include="Views\ftReceipt.cshtml" />
+    <Content Include="Views\ftShippingAddress.cshtml" />
+    <Content Include="Views\ftShipRateQuote.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
